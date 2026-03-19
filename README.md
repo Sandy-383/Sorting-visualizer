@@ -85,6 +85,60 @@ git clone https://github.com/your-username/sorting-visualizer.git
 
 # Navigate into the folder
 cd sorting-visualizer
+```
 
-# Open in browser
-open index.html
+---
+
+## 🎯 Algorithm Complexity
+
+| Algorithm      | Best       | Average    | Worst      | Space    |
+|---------------|-----------|-----------|-----------|----------|
+| Bubble Sort    | O(n)       | O(n²)      | O(n²)      | O(1)     |
+| Selection Sort | O(n²)      | O(n²)      | O(n²)      | O(1)     |
+| Insertion Sort | O(n)       | O(n²)      | O(n²)      | O(1)     |
+| Merge Sort     | O(n log n) | O(n log n) | O(n log n) | O(n)     |
+| Quick Sort     | O(n log n) | O(n log n) | O(n²)      | O(log n) |
+
+
+
+
+🛠️ Tech Stack
+
+HTML5 — Structure
+
+CSS3 — Styling & animations
+
+JavaScript (Vanilla) — Logic & algorithms
+
+🎨 Design Highlights
+
+📺 CRT Scanline Effect
+
+🌈 Neon Glow UI
+
+⚡ Glitch-style Title Animation
+
+🎮 Arcade-inspired Controls
+
+🎧 Optional sound effects for interactions
+
+🚀 Future Enhancements
+
+Add Heap Sort & Radix Sort
+
+Sound effects for swaps & comparisons
+
+Dark/Light retro themes
+
+Performance comparison charts
+
+User-defined custom arrays
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repo and submit a PR.
+
+📜 License
+
+This project is open-source and available under the MIT License.
