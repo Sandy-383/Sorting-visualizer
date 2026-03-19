@@ -102,43 +102,41 @@ cd sorting-visualizer
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-HTML5 — Structure
+- **HTML5** — Structure  
+- **CSS3** — Styling & animations  
+- **JavaScript (Vanilla)** — Logic & algorithms  
 
-CSS3 — Styling & animations
+---
 
-JavaScript (Vanilla) — Logic & algorithms
+## 🎨 Design Highlights
 
-🎨 Design Highlights
+- 📺 CRT Scanline Effect  
+- 🌈 Neon Glow UI  
+- ⚡ Glitch-style Title Animation  
+- 🎮 Arcade-inspired Controls  
+- 🎧 Optional sound effects for interactions  
 
-📺 CRT Scanline Effect
+---
 
-🌈 Neon Glow UI
+## 🚀 Future Enhancements
 
-⚡ Glitch-style Title Animation
+- Add Heap Sort & Radix Sort  
+- Sound effects for swaps & comparisons  
+- Dark/Light retro themes  
+- Performance comparison charts  
+- User-defined custom arrays  
 
-🎮 Arcade-inspired Controls
+---
 
-🎧 Optional sound effects for interactions
+## 🤝 Contributing
 
-🚀 Future Enhancements
-
-Add Heap Sort & Radix Sort
-
-Sound effects for swaps & comparisons
-
-Dark/Light retro themes
-
-Performance comparison charts
-
-User-defined custom arrays
-
-🤝 Contributing
-
-Contributions are welcome!
+Contributions are welcome!  
 Feel free to fork the repo and submit a PR.
 
-📜 License
+---
+
+## 📜 License
 
 This project is open-source and available under the MIT License.
